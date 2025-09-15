@@ -1,0 +1,3 @@
+name :Surya Prakash K
+Course :BSC Cs
+one thing you learned about Git-Hub : It's a Repository of files That can be accessed /not accessible by others ,We can commit changes and also create new directories/repositories..
